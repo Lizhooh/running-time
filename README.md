@@ -3,6 +3,8 @@
 ### running-time
 'running-time' is a function used to calculate the running time.
 
+**need nodejs >= 8.5**
+
 > runTime(target, ...arg)
 
 ```js

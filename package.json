@@ -1,6 +1,6 @@
 {
   "name": "running-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "running-time is a function used to calculate the running time.",
   "main": "index.js",
   "repository": {
